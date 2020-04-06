@@ -8,7 +8,7 @@ BL workshop as part of Library Carpentry introducing Python.
 ## Contents:
 
 - [01_python-intro](https://colab.research.google.com/github/davanstrien/Python-introduction-for-digital-collections/blob/master/01_python_intro.ipynb): a quick intro to Python
-- [02_download_data](https://colab.research.google.com/github/Python-introduction-for-digital-collections/blob/master/02_download_data.ipynb): downloading data in python and some basic data processing
+- [02_download_data](https://colab.research.google.com/github/davanstrien/Python-introduction-for-digital-collections/blob/master/02_download_data.ipynb): downloading data in python and some basic data processing
 - [03_pandas](https://colab.research.google.com/github/davanstrien/Python-introduction-for-digital-collections/blob/master/03_pandas.ipynb): an overview of what we can do with Pandas 
 
 
