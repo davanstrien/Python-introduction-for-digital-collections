@@ -18,5 +18,14 @@ If Colab doesn't work you can run in Binder. This link: [![Binder](https://mybin
 
 
 ## Resources 
-Library Carpentry lesson: [Python Intro for Libraries](https://librarycarpentry.org/lc-python-intro/)
-Glam workbench: [https://glam-workbench.github.io/]()
+
+### Python 
+- Library Carpentry lesson: [Python Intro for Libraries](https://librarycarpentry.org/lc-python-intro/)
+
+### Notebooks
+- Glam workbench: [https://glam-workbench.github.io/]()
+- [Introduction to Jupyter Notebooks](https://programminghistorian.org/en/lessons/jupyter-notebooks)
+
+### Pandas 
+- [Visualizing Data with Bokeh and Pandas](https://programminghistorian.org/en/lessons/visualizing-with-bokeh) 
+- [Using Pandas with Large Data Sets in Python](https://www.dataquest.io/blog/pandas-big-data/)
