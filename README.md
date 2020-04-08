@@ -25,6 +25,7 @@ If Colab doesn't work you can run in Binder. This link: [![Binder](https://mybin
 - [Installing Python Modules with pip](https://programminghistorian.org/en/lessons/installing-python-modules-pip)
 - [Working with Text Files in Python](https://programminghistorian.org/en/lessons/working-with-text-files) 
 - [Working With Files in Python](https://realpython.com/working-with-files-in-python/)
+- [Real Python](https://realpython.com/) tends to have good quality tutorials. Most of it is free but there is some paid content too. 
 
 ### Notebooks
 - Glam workbench: [https://glam-workbench.github.io/]()
