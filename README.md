@@ -22,8 +22,9 @@ If Colab doesn't work you can run in Binder. This link: [![Binder](https://mybin
 ### Python 
 - Library Carpentry lesson: [Python Intro for Libraries](https://librarycarpentry.org/lc-python-intro/)
 - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
-- [Installing Python Modules with pip](https://programminghistorian.org/en/lessons/installing-python-modules-pip) 
-
+- [Installing Python Modules with pip](https://programminghistorian.org/en/lessons/installing-python-modules-pip)
+- [Working with Text Files in Python](https://programminghistorian.org/en/lessons/working-with-text-files) 
+- [Working With Files in Python](https://realpython.com/working-with-files-in-python/)
 
 ### Notebooks
 - Glam workbench: [https://glam-workbench.github.io/]()
